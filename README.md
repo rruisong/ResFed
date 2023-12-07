@@ -87,3 +87,13 @@ python resfed_main.py -n 10 \
 Please run `python postprocessing/eval_main.py -rr 'results'` to plot the testing accuracy and training loss by the increasing number of epochs or communication rounds. 
 Note that the labels in the figure is the name of result files
 
+# Citation
+If you find ResFed is useful, please cite our work:
+```bibtex
+@ARTICLE{song2023resfed,
+  author={Song, Rui and Zhou, Liguo and Lyu, Lingjuan and Festag, Andreas and Knoll, Alois},
+  journal={IEEE Internet of Things Journal}, 
+  title={ResFed: Communication Efficient Federated Learning With Deep Compressed Residuals}, 
+  year={2023},
+  doi={10.1109/JIOT.2023.3324079}}
+```
