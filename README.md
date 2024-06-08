@@ -90,10 +90,13 @@ Note that the labels in the figure is the name of result files
 # Citation
 If you find ResFed is useful, please cite our work:
 ```bibtex
-@ARTICLE{song2023resfed,
+@ARTICLE{10283999,
   author={Song, Rui and Zhou, Liguo and Lyu, Lingjuan and Festag, Andreas and Knoll, Alois},
   journal={IEEE Internet of Things Journal}, 
-  title={ResFed: Communication Efficient Federated Learning With Deep Compressed Residuals}, 
-  year={2023},
+  title={ResFed: Communication-Efficient Federated Learning With Deep Compressed Residuals}, 
+  year={2024},
+  volume={11},
+  number={6},
+  pages={9458-9472},
   doi={10.1109/JIOT.2023.3324079}}
 ```
